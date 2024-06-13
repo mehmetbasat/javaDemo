@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/findNumber/findNumber.iml" filepath="$PROJECT_DIR$/findNumber/findNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/friendNumbers/friendNumbers.iml" filepath="$PROJECT_DIR$/friendNumbers/friendNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaOdev.iml" filepath="$PROJECT_DIR$/.idea/javaOdev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjectPrimeNumber/miniProjectPrimeNumber.iml" filepath="$PROJECT_DIR$/miniProjectPrimeNumber/miniProjectPrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perfectNumber/perfectNumber.iml" filepath="$PROJECT_DIR$/perfectNumber/perfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reCapDemo2/reCapDemo2.iml" filepath="$PROJECT_DIR$/reCapDemo2/reCapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/stringsDemo/stringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchDemo/switchDemo.iml" filepath="$PROJECT_DIR$/switchDemo/switchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/veriables/veriables.iml" filepath="$PROJECT_DIR$/veriables/veriables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vowels/vowels.iml" filepath="$PROJECT_DIR$/vowels/vowels.iml" />
+    </modules>
+  </component>
+</project>
